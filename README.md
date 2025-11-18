@@ -1,1 +1,9 @@
-# my-first
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+</head>
+<body>
+    <p>Привет, мам! Это для тебя!</p>
+    <p>Да, я реально освоил HTML (HyperText Markup Language)!</p>
+</body>
+</html>
